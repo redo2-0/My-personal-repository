@@ -1,7 +1,6 @@
 <div align="center">
   <img width="80%" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" alt="Chill Coding Animation" />
 </div>
-[![Coder at Desk](https://png.pngtree.com/thumb_back/fh260/background/20230713/pngtree-desk-bound-coder-programming-on-desktop-computer-monitor-in-3d-rendering-image_3854487.jpg)](https://your-link-here.com)
 
  <h1 align="center">Hi there 🙋🏻‍♂️ I'm Redowan Sajeeb</h1>
 <!-- <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://raw.githack.com/progmamun/demo/main/storage/tempfiles/assets/mamun3.svg" alt="mamun" /> </a>
